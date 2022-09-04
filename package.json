@@ -1,0 +1,40 @@
+{
+  "_from": "my-vue-router",
+  "_id": "my-vue-router@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-bLHHrSiznVu7BCf/16oapI1rnueC36rM3RalTgqd9CfVN3k+Y/AKf2nCOlVOp3/+bxDGxc1MFsUEblWhFx1Slg==",
+  "_location": "/my-vue-router",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "my-vue-router",
+    "name": "my-vue-router",
+    "escapedName": "my-vue-router",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/my-vue-router/-/my-vue-router-1.0.0.tgz",
+  "_shasum": "509f55b0284bd5792cee67324c818a9eba3ae10a",
+  "_spec": "my-vue-router",
+  "_where": "D:\\前端学习learn\\Vue学习之路\\create-router",
+  "author": {
+    "name": "quwensong"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "",
+  "keywords": [],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "my-vue-router",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
